@@ -15,3 +15,5 @@ To test the full DIPs reconstruction algorithm
 7.1. Open the "3dmatch_demo.py".
 7.2. Change the "num_pcds" to the number of available pcds, and set the path for "pcd1" and "pcd2" to the pcd directory.
 7.3. Run the Python file in the terminal.
+
+For the full "coffe_mug_1.tar" dataset: https://rgbd-dataset.cs.washington.edu/dataset/rgbd-dataset_pcd_ascii/
