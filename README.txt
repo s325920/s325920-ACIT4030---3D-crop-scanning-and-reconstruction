@@ -17,3 +17,13 @@ To test the full DIPs reconstruction algorithm
 7.3. Run the Python file in the terminal.
 
 For the full "coffe_mug_1.tar" dataset: https://rgbd-dataset.cs.washington.edu/dataset/rgbd-dataset_pcd_ascii/
+The IPC code is based on the documentation from the Open3D library: http://www.open3d.org/docs/release/
+The machine learning code is used with minor alterations, referenced in the code itself and here:
+@inproceedings{Poiesi2021,
+  title = {Distinctive {3D} local deep descriptors},
+  author = {Poiesi, Fabio and Boscaini, Davide},
+  booktitle = {IEEE Proc. of Int'l Conference on Pattern Recognition},
+  address = {Milan, IT}
+  month = {Jan}
+  year = {2021}
+}
